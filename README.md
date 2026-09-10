@@ -1,2 +1,6 @@
 # na-sec-policy-eval-onboarding-wizard-cli
-security / standard / na
+
+Team: **security**  
+Tier: **standard**  
+Region: **na**  
+Synthetic demo repo for the Domo governance platform.
